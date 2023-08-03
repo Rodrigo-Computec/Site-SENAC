@@ -3,7 +3,7 @@ main{
     
 }
 img{
-    max-width: 100%}
+    max-width: 95%}
 .curso-item{
     display: grid;
     grid-template-columns: 1fr 1fr;
